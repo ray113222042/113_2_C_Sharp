@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\bin\Debug\net8.0-windows\Tutorial_0227.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\bin\Debug\net8.0-windows\Tutorial_0227.deps.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\bin\Debug\net8.0-windows\Tutorial_0227.runtimeconfig.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\bin\Debug\net8.0-windows\Tutorial_0227.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\bin\Debug\net8.0-windows\Tutorial_0227.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.AssemblyInfo.cs
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.sourcelink.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\refint\Tutorial_0227.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\Tutorial_0227.genruntimeconfig.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_27\Tutorial_0227\Tutorial_0227\obj\Debug\net8.0-windows\ref\Tutorial_0227.dll
